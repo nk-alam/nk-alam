@@ -81,8 +81,6 @@
     />
   </a>
   </kbd>
-  <br>
-  <br>
    <kbd>
     <kbd>Mobile</kbd>
     <br>
@@ -92,6 +90,8 @@
      <img src="https://pagepro.co/blog/wp-content/uploads/2020/03/react-native-logo-884x1024.png" width="30px"/>
   </kbd>
  <kbd>
+   <br>
+  <br>
   <kbd>
     <kbd>Front-end</kbd>
     <br>
