@@ -1,3 +1,6 @@
+![Hey there, This is Nk ALam. I'm a software developer, a Developer and Tech enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
+
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=228B22&size=30&lines=Hey!+It's+Nk+Alam!+👋;I'm+a+Full-Stack+Developer;I'm+a+Mobile+App+Developer;;I'm+a+Web+App+Developer)
 <!-- <h1 align="center">Hi 👋, I'm Nk Alam</h1> -->
 
