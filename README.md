@@ -1,135 +1,213 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+It's+Nk Alam!+👋;I'm+a+Full-Stack+Developer;I'm+a+Mobile+App+Developer;;I'm+a+Web+App+Developer)
+<!-- <h1 align="center">Hi 👋, I'm Nk Alam</h1> -->
+
+## 🧐 About
+
+<h3 align="center">A passionate Full-Stack Developer. Love to build Mobile and Web Applications with latest tech available😄
+</h3>
+
+<br>
+
+<img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+
+### I am a Full Stack Developer at Procody Studio
+- 🌱 I’m currently learning Backend Development.
+- 👯 I’m looking to collaborate with other Developers :wink:
+- 🥅 2025 Goals: Contribute to Open Source projects
+- 💬 Ask me about anything, I am happy to help :smile:
+- 📬 How to reach me: [Let's get in touch!][linkedin]
+- 🧗 I try to: Go beyond and push the bounds
+- ⚡ Fun fact: I love connecting with different people :raised_hands:
+<!-- ### Blogs posts -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+</br>
+
+<h3 align="left">▶ Connect with me:</h3>
+  <p>
+    <a href="https://www.linkedin.com/in/nk-alam" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nk-alam/)](https://www.linkedin.com/in/nk-alam/"></a>
+  <a href="https://www.hackerrank.com/nk-alam" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-222222?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/nk-alam)](https://www.hackerrank.com/nk-alam"></a>
+    <a href="https://www.instagram.com/itz_rahul_d3v" target="_blank"><img src="https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_.sanda._)](https://www.instagram.com/_.sanda._/"></a>
+    <a href="https://stackoverflow.com/users/11788531/nk-alam?tab=profile"><img src="https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/16900340/nk-alam)](https://stackoverflow.com/users/16900340/nk-alam"></a>
+  </p>
+</br>
+
+<h3 align="left">▶ Languages and Tools:</h3>
+<p style="display: inline-block;" align="center">
+  <kbd>
+    <kbd>Programming Languages</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /> 
+      <a href="https://www.typescriptlang.org/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      alt="typescript"
+      width="40"
+      height="40"
+    />
+  </a>
+  </kbd>
+  <kbd>
+    <kbd>Back-end</kbd>
+    <br>
+    <br>
+    <a href="https://expressjs.com" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      alt="express"
+      width="40"
+      height="40"
+    />
+  </a>
+      <a href="https://nodejs.org" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs"
+      width="40"
+      height="40"
+    />
+  </a>
+      <a href="https://postman.com" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+      alt="postman"
+      width="40"
+      height="40"
+    />
+  </a>
+  </kbd>
+   <kbd>
+    <kbd>Mobile</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
+     <img src="https://pagepro.co/blog/wp-content/uploads/2020/03/react-native-logo-884x1024.png" width="30px"/>
+  </kbd>
+ <kbd>
+  <kbd>
+    <kbd>Front-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /> 
+      <a href="https://redux.js.org" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+      alt="redux"
+      width="30"
+      height="30"
+    />
+  </a>
+     <a href="https://sass-lang.com" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+      alt="sass"
+      width="40"
+      height="40"
+    />
+  </a>
+<!--     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /> -->
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+     <a href="https://tailwindcss.com/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+      alt="tailwind"
+      width="40"
+      height="40"
+    />
+  </a>
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react"
+      width="30"
+      height="30"
+    />
+  </kbd>
+  <kbd>
+    <kbd>Database</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
+  </kbd>
+  <br>
+  <br>
+  <kbd>
+  <kbd>
+    <kbd>System, Networking & Deployment</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
+<!--     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain.svg" /> -->
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+      <a href="https://firebase.google.com/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+      alt="firebase"
+      width="40"
+      height="40"
+    />
+  </a>
+  </kbd>
+  <kbd>
+    <kbd>Terminal Scripts</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Tools</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<!--     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" /> -->
+<!--     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" /> -->
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+    <img width="30px" src="https://repository-images.githubusercontent.com/59065830/b62be480-45d2-11ea-9989-803db0f9c44d" />
+  </kbd>
+   <kbd>
+</br>
+    </p>
+<h3 align="left">▶ Stats:</h3>
+<!-- <p align="center">
+<img src="https://metrics.lecoq.io/nk-alam?template=terminal&config.timezone=Asia%2FCalcutta" alt="nk-alam"
+</p>
+ -->
+<p align="center"><img src="https://badges.pufler.dev/visits/nk-alam/nk-alam?style=for-the-badge"/> <img src="https://badges.pufler.dev/repos/nk-alam/?style=for-the-badge"/>
+</p>
+<p align="center"><img src="https://badges.pufler.dev/commits/monthly/nk-alam"/></p>
+
+<!-- <img src="https://github.com/nk-alam/nk-alam/blob/output/github-contribution-grid-snake.svg" /></p> -->
+
+<!--
+[![Spotify](https://novatorem-tekyaygilfethi.vercel.app/api/spotify)](https://open.spotify.com/user/216fni5y42n2fs6kxbcqe6csq)
+-->
+<!-- <hr>
+<h2 align="center">Now Playing</h2>
+ <a href ="https://open.spotify.com/user/216fni5y42n2fs6kxbcqe6csq">
+<p align="center"> -->
+
+<!-- <img src="https://novatorem-tekyaygilfethi.vercel.app/api/spotify" alt="Spotify Now Playing" width="550" /> -->
+
+</p>
+  </a>
+<h2 align="center">My Github Stats</h2>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nk-alam&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
+<br>
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nk-alam&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
+<br>
+<br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nk-alam&theme=holi-theme">
+</p>
 
 
-### Palanceroot  
-<div align="center">
-<img src="https://1.bp.blogspot.com/-Fe27scp4ARM/YKmtTm5mYGI/AAAAAAAAADY/fWLn-ZPP4IkLZfSECvIirRJ4I3922cD5ACPcBGAYYCw/s200/logo.png" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Golden Rahul, a part-time full-stack freelance developer 👨‍💻 working remotely since 2021 🚀</div>  
-  
-
-- 🔭 I’m currently working on [Github PALANCEROOT](https://github.com/PALANCEROOT)  
-  
-
-- 🌱 I’m currently learning Programming and Developing  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces 😂  
-  
-
-<br/>  
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-  
-<a href="https://palanceroot.in" target="_blank">
-<img src=https://img.shields.io/badge/Website-Visit%20my%20website-blue alt=Website style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/PALANCEROOT" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/golden_rahul_official" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/Goldenrahul04" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/user/https://www.youtube.com/channel/UCFn0ci2krdWoansiCMaDOow" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=PALANCEROOT&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-  Palanceroot 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://1.bp.blogspot.com/-jSVGqQIopBo/YKifcsd6G8I/AAAAAAAAAAU/J4InWQTb_GgLF5pCSIt8tO28PmYCL7rJgCPcBGAYYCw/s800/channel.png" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=PALANCEROOT&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/palanceroot" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-----
