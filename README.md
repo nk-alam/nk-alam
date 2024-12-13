@@ -168,8 +168,6 @@
   </kbd>
   <kbd>
     <kbd>Tools</kbd>
-    <br>
-    <br>
     <h2 align="left">I code with</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -225,7 +223,6 @@
 
   </kbd>
    <kbd>
-</br>
     </p>
 <h3 align="left">▶ Stats:</h3>
 <!-- <p align="center">
