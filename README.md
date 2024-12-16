@@ -28,7 +28,7 @@
 <h3 align="left">▶ Connect with me:</h3>
   <p>
     <a href="https://www.linkedin.com/in/nk-alam" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nk-alam/)](https://www.linkedin.com/in/nk-alam/"></a>
-  <a href="https://www.hackerrank.com/nk-alam" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-222222?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/nk-alam)](https://www.hackerrank.com/nk-alam"></a>
+  <a href="https://www.hackerrank.com/palanceroot" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-222222?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/nk-alam)](https://www.hackerrank.com/palanceroot"></a>
     <a href="https://www.instagram.com/itz.rahul.d3v" target="_blank"><img src="https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/itz.rahul.d3v)](https://www.instagram.com/_.sanda._/"></a>
     <a href="https://stackoverflow.com/users/28482885/nk-alam?tab=profile"><img src="https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/28482885/nk-alam)](https://stackoverflow.com/users/28482885/nk-alam"></a>
   </p>
