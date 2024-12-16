@@ -120,7 +120,7 @@
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
-<!--     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain.svg" /> -->
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
       <a href="https://firebase.google.com/" target="_blank">
@@ -143,7 +143,7 @@
     <kbd>Tools</kbd>
     <br/>
     <br/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
     <img src="https://user-images.githubusercontent.com/18669142/57947837-dbd25b80-7894-11e9-992d-225e476f760b.png" height="30" alt="postman logo"  />
     <img src="https://static-00.iconduck.com/assets.00/chrome-devtools-icon-1024x1024-bgoqb03p.png" height="30" alt="postman logo"  />
