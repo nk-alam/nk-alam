@@ -107,7 +107,7 @@
     <img width="30px" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-    <img src="    https://github.com/user-attachments/assets/6c41e80e-d8a6-491a-b037-4f9aae21ae6d" height="30" alt="mongodb logo"  />
+    <img src="https://raw.githubusercontent.com/nk-alam/nk-alam/refs/heads/main/postgresql.png" height="30" alt="postgresql logo"  />
 
   </kbd>
   <br>
