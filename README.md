@@ -9,7 +9,7 @@
 
 <br>
 
-<img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+<img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/14373931/screenshots/20229892/media/2916c362ae81f1f7fafbbe12f59cd8dc.gif" />
 
 ### I am a Full Stack Developer at Procody Studio
 - 🌱 I’m currently learning Backend Development.
