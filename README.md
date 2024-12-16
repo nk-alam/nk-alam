@@ -108,6 +108,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
     <img src="https://raw.githubusercontent.com/nk-alam/nk-alam/refs/heads/main/postgresql.png" height="30" alt="postgresql logo"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" height="30" alt="graphql logo"  />
+
 
   </kbd>
   <br>
@@ -143,6 +145,8 @@
     <br/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
+    <img src="https://user-images.githubusercontent.com/18669142/57947837-dbd25b80-7894-11e9-992d-225e476f760b.png" height="30" alt="postman logo"  />
+    <img src="https://static-00.iconduck.com/assets.00/chrome-devtools-icon-1024x1024-bgoqb03p.png" height="30" alt="postman logo"  />
         <br/>
     <br/>
 
