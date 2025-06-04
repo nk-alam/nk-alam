@@ -26,7 +26,7 @@
 
 <h3 align="left">▶ Connect with me:</h3>
   <p>
-    <a href="https://nkalam.vercel.app" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-nkalam.vercel.app-ff6b6b?style=flat-square&logo=vercel&logoColor=white"></a>
+    <a href="https://nkalam.vercel.app" target="_blank"><img src="https://img.shields.io/badge/_Portfolio-Visit-ff6b6b?style=flat-square&logo=vercel&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/nk-alam" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white"></a>
   <a href="https://www.hackerrank.com/palanceroot" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-222222?style=flat-square&logo=HackerRank&logoColor=white"></a>
     <a href="https://www.instagram.com/itz.rahul.d3v" target="_blank"><img src="https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white"></a>
